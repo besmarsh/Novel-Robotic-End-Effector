@@ -8,3 +8,5 @@ Grasp tests were performed on a wide range of target objects and the success of 
 This repository contains CAD models, control software, images, and videos associated with this work.
 
 This work was featured in the 23rd Annual Towards Autonomous Robotic Systems (TAROS) Conference - [DOI: 10.1007/978-3-031-15908-4_2](https://doi.org/10.1007/978-3-031-15908-4_2)
+
+Any use of or reference to this academic work must be properly referenced.
